@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: a7a525a922f8e1e41bfff47a954b20ea
   - enabled: 1
+    path: Assets/Scenes/Menu 2 - Enter Name.unity
+    guid: 4c404c2db042654439c695a4e0b8e3a0
+  - enabled: 1
+    path: Assets/Scenes/Menu 3 - Difficulty.unity
+    guid: d48d00dba5fbc1f4580d2de37a864fa5
+  - enabled: 1
     path: Assets/Scenes/Level 1.unity
     guid: a5969d397f7fe8342b9cff9ee70a8410
   - enabled: 1
@@ -17,6 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level 3.unity
     guid: f2d8bb276620fcc408fdb155279fd3be
+  - enabled: 1
+    path: Assets/Scenes/Menu 4 - Finish.unity
+    guid: 2952278e21ca68b48a300c4c416c2ce7
   - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: f42de0b43cf385a47bc18fcf6a537663

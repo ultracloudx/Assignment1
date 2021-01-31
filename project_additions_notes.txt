@@ -1,0 +1,16 @@
+-three scenes and buttons to switch between them (done)
+-input field for player name and show it in a text (done)
+-slider , shows value in a text (done)
+-finally, record a video of you playing the game and show how you incorporated the modifications.
+
+3 scenes:
+----------
+
+-enter name scene (done)
+	- if statement checking if user has entered a name or not.
+-level select menu with difficulty setting (slider) !!!!!
+	- menu says "hello" and displays the inputed name from previous scene
+	- include slider for difficulty with code referencing to the "foward force" of the prefab "Player"
+-menu after completing the game asking if the player wants to retry or end the game. (done)
+	- Retry button goes back to main menu
+	- Finish proceeds to ending scene

@@ -4023,6 +4023,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1842253967}
+    - target: {fileID: 8223404610202621373, guid: 6d77afd639f5231488b59d647facf04d, type: 3}
+      propertyPath: m_Text
+      value: SCORE
+      objectReference: {fileID: 0}
     - target: {fileID: 8223404610270014867, guid: 6d77afd639f5231488b59d647facf04d, type: 3}
       propertyPath: m_Name
       value: Canvas
