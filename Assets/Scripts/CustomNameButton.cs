@@ -27,7 +27,8 @@ public class CustomNameButton : MonoBehaviour
         {
             noNamePopUp.enabled = true;
             noNamePopUp.GetComponent<Text>().text = "No name entered!";
-            
+            button.enabled = false;
+
         } else
         {
             noNamePopUp.enabled = true;
